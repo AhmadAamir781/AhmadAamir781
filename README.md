@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad Aamir</h1>
-<h3 align="center" style="color:#4A90E2;">A Passionate Software Engineer</h3>
+<h3 align="center" style="color:#4A90E2;">Software Engineer</h3>
 
 <br>
 
