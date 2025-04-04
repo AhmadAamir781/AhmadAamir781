@@ -4,7 +4,7 @@
 <br>
 
 ## 🚀 About Me  
-- 🌱 I’m currently learning **React.js**  
+- 🌱 I’m **ASP.NET Core Developer**
 - 👨‍💻 All of my projects are available at [ahmadaamir.com](https://ahmadaamir.com)  
 - 📧 How to reach me: **ahmadaamir781@gmail.com**  
 
